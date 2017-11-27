@@ -1,0 +1,15 @@
+/*
+!.gitignore
+!README.md
+
+**/.DS_Store
+
+!HNSC/
+HNSC/*
+!HNSC/*.sh
+!HNSC/*.R
+
+!scripts/
+scripts/*
+!scripts/*.sh
+!scripts/*.R
